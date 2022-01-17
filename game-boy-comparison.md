@@ -1,8 +1,5 @@
----
-layout: 'tutorial'
-title: "Game Boy sound comparison (better than Herbert Weixelbaum's version)"
-lastUpdated: '2020-05-28T17:31:13+11:00'
----
+Game Boy sound comparison (better than Herbert Weixelbaum's version)
+--------------------------------------------------------------------
 
 Page Version: 1.0.1
 
