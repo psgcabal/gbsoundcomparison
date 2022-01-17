@@ -105,7 +105,8 @@ On a more positive note, the sound is more tolerable than a vanilla Color unit.
 
 Thank you, mewl_me for the recordings!
 
-Additional notes from them:<p> ```I did Internal ProSound mod for both.```<br>
+Additional notes from them:
+```I did Internal ProSound mod for both.```<br>
 ```And, I rewired the GND of the Volume to the Speaker GND.```<br>
 ```Ie, the volume GND is connected to GND through a 100 μF capacitor.```<br>
 ```1 V DC was flowing from headphone jack L to its GND, but this made it 0.1 mV.```
