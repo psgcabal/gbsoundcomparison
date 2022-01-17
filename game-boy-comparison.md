@@ -154,7 +154,7 @@ If you had to pick between a Color and the Advance series with no mods factored 
 Additional information courtesy of LIJI32 circa 25/05/2019:
 
 - CGB-A fixed CGB-0's uninitialized wave RAM
-- CGB-B fixed CGB-A's zombie mode behavior
+- ~~CGB-B fixed CGB-A's zombie mode behavior~~ Zombie mode changed between CGB-C and CGB-D (source: LIJI32)
 - CGB-C fixed CGB-B's sweep cutoff bug
 - CGB-D fixed CGB-C's PCMxx read bug and altered/improved some PPU behaviors
 - CGB-E fixed some CGB-D PPU quirk Matt found
