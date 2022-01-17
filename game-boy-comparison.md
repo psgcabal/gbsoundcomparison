@@ -149,6 +149,7 @@ There's also a noise cancellation through stereo inversion technique <a href="ht
 If you had to pick between a Color and the Advance series with no mods factored in, go for the Advance series instead (especially SP if you're factoring in button ergonomics).
 
 ![cautionary.gif](/aquellexws/img/cautionary.gif) Watch out for CGB-CPU-01/02/03 mainboards, as they have a high chance of having a CPU CGB 0/A/B (not to be confused with the mainboards), which contains a fatal envelope bug that kills notes unexpectedly upon using pitch bends & vibrato commands. Earlier mainboards are also more likely to carry noisier amplifiers.
+ UPDATE: LSDj 9.2.K properly workarounds the pitch envelope bug (also known as "extra length clocking" bug). It should no longer be a concern.
 
 Additional information courtesy of LIJI32 circa 25/05/2019:
 
